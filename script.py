@@ -1,4 +1,5 @@
-print('Proteina de entrada')
+#python3 script.py
+print('Input epitopes list')
 txt1=input()
 close=True
 count1=0
